@@ -1,7 +1,22 @@
-# Counter
-Counter is a JavaScript application that allows the user to increase and decrease the value of the counter.
+# Counter app
+Simple Counter app. 
 
-## Installation
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Contributing](#contributing)
+
+## General info
+This application allows the user to increase and decrease the value of the counter.
+	
+## Technologies
+Project is created with:
+* HTML
+* CSS
+* JavaScript
+	
+## Setup
 You don't have to install it since it's a JavaScript app and JavaScript is already running in your browser on your computer, on your tablet, and on your smart-phone.
 
 ## Contributing
