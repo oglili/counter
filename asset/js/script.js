@@ -7,7 +7,7 @@ let reset = document.querySelector('#reset');
 valoreAumenta.addEventListener('click', ()=>{
     valore.innerHTML++;
     if (valore.innerHTML >= 0) {
-        valore.style.color = 'black';
+        valore.style.color = '';
     }    
 });
 
@@ -20,4 +20,5 @@ valoreDecrementa.addEventListener('click', ()=>{
 
 reset.addEventListener('click', ()=>{
     valore.innerHTML = 0;
+    valore.style.color = '';
 });
