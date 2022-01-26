@@ -23,7 +23,7 @@ h1, h2 {
   
 }
 .main {
-    width: 50%;
+    width: 90%;
     background-color: rgb(245, 153, 153);
     box-shadow: 0 4px 8px 0 #1a1a37, 0 6px 20px 0 #1a1a37;
     padding-bottom: 20px;
@@ -35,3 +35,9 @@ button {
     color: #1a1a37;
     cursor: pointer;
 }
+@media screen and (mix-width: 600px) {
+    .main {
+        width: 50%;
+               
+    }
+  }
