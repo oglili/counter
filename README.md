@@ -5,6 +5,7 @@ Simple Counter app.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Illustrations](#illustrations)
 * [Contributing](#contributing)
 
 ## General info
@@ -18,6 +19,9 @@ Project is created with:
 	
 ## Setup
 You don't have to install it since it's a JavaScript app and JavaScript is already running in your browser on your computer, on your tablet, and on your smart-phone.
+
+## Illustrations
+![Initial Screen](asset/image/app_img1.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
