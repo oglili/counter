@@ -1,7 +1,20 @@
-let valore = document.querySelector('#valore');
-let valoreDecrementa = document.querySelector('#decrementa');
-let valoreAumenta = document.querySelector('#aumenta');
-let reset = document.querySelector('#reset');
+let main = document.getElementById('main')
+
+let valore = document.createElement('h2');
+valore.innerHTML = 0;
+main.appendChild(valore);
+
+let valoreDecrementa = document.createElement('button');
+valoreDecrementa.innerHTML = '-';
+main.appendChild(valoreDecrementa);
+
+let reset = document.createElement('button');
+reset.innerHTML = 'reset';
+main.appendChild(reset);
+
+let valoreAumenta = document.createElement('button');
+valoreAumenta.innerHTML = '+';
+main.appendChild(valoreAumenta);
 
 
 valoreAumenta.addEventListener('click', ()=>{
