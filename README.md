@@ -6,6 +6,7 @@ Simple Counter app.
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Illustrations](#illustrations)
+* [Link](#illustrations)
 * [Contributing](#contributing)
 
 ## General info
@@ -23,6 +24,9 @@ You don't have to install it since it's a JavaScript app and JavaScript is alrea
 ## Illustrations
 ![Initial Screen](asset/image/app_img1.png)![After Screen](asset/image/app_img2.png)
 
+## Links
+Link to App.
+https://js-counter-js.netlify.app/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
